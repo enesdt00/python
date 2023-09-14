@@ -1,0 +1,4 @@
+KundeNavn:enes
+Skulderbredde:22.86
+Halsvidde:30.48
+Livvidde:78.74
